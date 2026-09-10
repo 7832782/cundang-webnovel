@@ -1,0 +1,6 @@
+node_modules/
+.last-sync
+src/.vitepress/cache/
+src/.vitepress/dist/
+src/第*.md
+src/public/图片/

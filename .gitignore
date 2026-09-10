@@ -1,0 +1,14 @@
+# 依赖与构建缓存
+网站/node_modules/
+网站/.last-sync
+网站/src/.vitepress/cache/
+网站/src/.vitepress/dist/
+
+# 由 sync.mjs 生成的章节副本（正文/ 才是唯一源）
+网站/src/第*.md
+网站/src/public/图片/
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
