@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,ag as _}from"./chunks/framework.DaAXJYxM.js";const m=JSON.parse('{"title":"第26章 台风","description":"","frontmatter":{},"headers":[],"relativePath":"第26章_台风.md","filePath":"第26章_台风.md"}'),r={name:"第26章_台风.md"};function o(n,p,s,c,i,d){return a(),t("div",null,[...p[0]||(p[0]=[_("",99)])])}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
