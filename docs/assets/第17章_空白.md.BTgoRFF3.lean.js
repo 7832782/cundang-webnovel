@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,ag as o}from"./chunks/framework.DaAXJYxM.js";const l=JSON.parse('{"title":"第17章 空白","description":"","frontmatter":{},"headers":[],"relativePath":"第17章_空白.md","filePath":"第17章_空白.md"}'),_={name:"第17章_空白.md"};function r(n,p,s,c,i,u){return e(),a("div",null,[...p[0]||(p[0]=[o("",64)])])}const m=t(_,[["render",r]]);export{l as __pageData,m as default};
