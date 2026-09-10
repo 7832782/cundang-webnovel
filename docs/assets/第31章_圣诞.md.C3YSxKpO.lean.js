@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,ag as _}from"./chunks/framework.DaAXJYxM.js";const m=JSON.parse('{"title":"第31章 圣诞","description":"","frontmatter":{},"headers":[],"relativePath":"第31章_圣诞.md","filePath":"第31章_圣诞.md"}'),r={name:"第31章_圣诞.md"};function o(n,p,s,c,i,d){return a(),t("div",null,[...p[0]||(p[0]=[_("",112)])])}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
