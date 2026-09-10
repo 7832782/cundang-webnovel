@@ -69,11 +69,29 @@
 
 全书的重心在卷六：前五卷的所有铺垫，都是为了第113到117章那五十分钟。
 
+## 线上
+
+- GitHub: https://github.com/7832782/cundang-webnovel
+- Pages: https://7832782.github.io/cundang-webnovel/
+
+发布流程：
+
+```powershell
+cd 网站
+npm run build          # 同步 正文/ → src/，构建到 docs/
+cd ..
+git add -A
+git commit -m "draft: 第0X章 …"
+git push               # Pages 会自动从 docs/ 重建（约 1-2 分钟）
+```
+
+正文只改 `正文/`，`网站/src/第*.md` 和 `docs/` 都是产物，不要手改。
+
 ## 进度
 
 - [x] 工程骨架与脱敏框架
 - [x] 素材卡（事件线 / 语言线）
 - [x] 世界观与人物
 - [x] 120 章大纲
-- [ ] 正文连载（已完成第 01-02 章）
+- [ ] 正文连载（已完成第 01-04 章，均低于目标字数，待补厚）
 - [ ] 逐章细磨
