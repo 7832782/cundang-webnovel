@@ -71,6 +71,7 @@ meds = []
 worst_run = 0
 low = []
 prob = []
+rows = []
 
 for p in files:
     ch = int(re.match(r'第(\d+)章_', os.path.basename(p)).group(1))
@@ -82,14 +83,14 @@ for p in files:
     meds.append(med)
     if n < 2000:
         low.append((ch, n))
-    r = best = 0
-    for x in [y.strip() for y in t.split('\n') if y.strip() and not y.startswith('# ')]:
-        pass
+    best = script_run(t)
     worst_run = max(worst_run, best)
-    if best > 6:
-        prob.append((ch, '连续台词', best))
-    if med < 25:
-        prob.append((ch, '段落仍偏碎', med))
+    rows.append((ch, n, med, best))
+    if best > 0:
+        prob.append((ch, '剧本行', best))
+    floor = 22 if ch in (113, 114, 115, 116, 117) else 30
+    if med < floor:
+        prob.append((ch, f'段落仍偏碎(下限{floor})', med))
     for b in BAN:
         if b in t:
             prob.append((ch, '串线:' + b, t.count(b)))
@@ -98,6 +99,10 @@ for p in files:
             prob.append((ch, '错字:' + b, t.count(b)))
 
 print(f'扫描 {len(files)} 章  总字 {tot}  段落中位数均值 {round(statistics.median(meds),1)}')
+if want:
+    print('章 / 字数 / 段落中位数 / 剧本行：')
+    for ch, n, med, b in rows:
+        print(f'  ch{ch:>3}  {n:>5}  {med:>6}  {b:>3}')
 if low:
     print('低于2000字:', low)
 print('全书最长连续台词段:', worst_run)
