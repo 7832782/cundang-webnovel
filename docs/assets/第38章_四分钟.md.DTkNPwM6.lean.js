@@ -1,0 +1,1 @@
+import{_ as t,o,c as e,ag as a}from"./chunks/framework.DaAXJYxM.js";const d=JSON.parse('{"title":"第38章 四分钟","description":"","frontmatter":{},"headers":[],"relativePath":"第38章_四分钟.md","filePath":"第38章_四分钟.md"}'),_={name:"第38章_四分钟.md"};function r(u,p,n,s,q,c){return o(),e("div",null,[...p[0]||(p[0]=[a("",136)])])}const l=t(_,[["render",r]]);export{d as __pageData,l as default};
