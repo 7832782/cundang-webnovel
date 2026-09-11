@@ -1,0 +1,1 @@
+import{_ as t,o,c as e,ag as a}from"./chunks/framework.DaAXJYxM.js";const q=JSON.parse('{"title":"第29章 不说话","description":"","frontmatter":{},"headers":[],"relativePath":"第29章_不说话.md","filePath":"第29章_不说话.md"}'),_={name:"第29章_不说话.md"};function r(n,p,s,u,c,i){return o(),e("div",null,[...p[0]||(p[0]=[a("",30)])])}const l=t(_,[["render",r]]);export{q as __pageData,l as default};
