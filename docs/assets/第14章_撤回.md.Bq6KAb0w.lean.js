@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,ag as _}from"./chunks/framework.DaAXJYxM.js";const u=JSON.parse('{"title":"第14章 撤回","description":"","frontmatter":{},"headers":[],"relativePath":"第14章_撤回.md","filePath":"第14章_撤回.md"}'),o={name:"第14章_撤回.md"};function r(n,p,s,c,i,d){return e(),a("div",null,[...p[0]||(p[0]=[_("",91)])])}const m=t(o,[["render",r]]);export{u as __pageData,m as default};

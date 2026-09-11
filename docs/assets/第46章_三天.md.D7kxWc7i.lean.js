@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,ag as _}from"./chunks/framework.DaAXJYxM.js";const m=JSON.parse('{"title":"第46章 三天","description":"","frontmatter":{},"headers":[],"relativePath":"第46章_三天.md","filePath":"第46章_三天.md"}'),o={name:"第46章_三天.md"};function r(n,p,s,c,i,d){return e(),a("div",null,[...p[0]||(p[0]=[_("",121)])])}const f=t(o,[["render",r]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,ag as _}from"./chunks/framework.DaAXJYxM.js";const m=JSON.parse('{"title":"第32章 对表","description":"","frontmatter":{},"headers":[],"relativePath":"第32章_对表.md","filePath":"第32章_对表.md"}'),o={name:"第32章_对表.md"};function r(n,p,s,c,i,d){return e(),a("div",null,[...p[0]||(p[0]=[_("",105)])])}const f=t(o,[["render",r]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,ag as o}from"./chunks/framework.DaAXJYxM.js";const l=JSON.parse('{"title":"第20章 转学","description":"","frontmatter":{},"headers":[],"relativePath":"第20章_转学.md","filePath":"第20章_转学.md"}'),_={name:"第20章_转学.md"};function r(n,p,s,u,c,i){return e(),a("div",null,[...p[0]||(p[0]=[o("",113)])])}const q=t(_,[["render",r]]);export{l as __pageData,q as default};
