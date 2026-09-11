@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,ag as o}from"./chunks/framework.DaAXJYxM.js";const l=JSON.parse('{"title":"第88章 不动","description":"","frontmatter":{},"headers":[],"relativePath":"第88章_不动.md","filePath":"第88章_不动.md"}'),_={name:"第88章_不动.md"};function r(n,p,s,u,c,i){return e(),a("div",null,[...p[0]||(p[0]=[o("",172)])])}const q=t(_,[["render",r]]);export{l as __pageData,q as default};
