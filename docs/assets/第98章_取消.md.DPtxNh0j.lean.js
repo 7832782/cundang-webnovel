@@ -1,0 +1,1 @@
+import{_ as t,o,c as e,ag as a}from"./chunks/framework.DaAXJYxM.js";const q=JSON.parse('{"title":"第98章 取消","description":"","frontmatter":{},"headers":[],"relativePath":"第98章_取消.md","filePath":"第98章_取消.md"}'),_={name:"第98章_取消.md"};function r(n,p,s,u,c,i){return o(),e("div",null,[...p[0]||(p[0]=[a("",169)])])}const l=t(_,[["render",r]]);export{q as __pageData,l as default};
