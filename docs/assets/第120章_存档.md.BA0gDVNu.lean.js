@@ -1,0 +1,1 @@
+import{_ as t,o,c as u,ag as q}from"./chunks/framework.DaAXJYxM.js";const d=JSON.parse('{"title":"第120章 存档","description":"","frontmatter":{},"headers":[],"relativePath":"第120章_存档.md","filePath":"第120章_存档.md"}'),e={name:"第120章_存档.md"};function a(_,p,r,n,s,c){return o(),u("div",null,[...p[0]||(p[0]=[q("",147)])])}const l=t(e,[["render",a]]);export{d as __pageData,l as default};
