@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,ag as _}from"./chunks/framework.DaAXJYxM.js";const m=JSON.parse('{"title":"第25章 走廊","description":"","frontmatter":{},"headers":[],"relativePath":"第25章_走廊.md","filePath":"第25章_走廊.md"}'),o={name:"第25章_走廊.md"};function r(n,p,s,c,i,d){return e(),a("div",null,[...p[0]||(p[0]=[_("",28)])])}const f=t(o,[["render",r]]);export{m as __pageData,f as default};
