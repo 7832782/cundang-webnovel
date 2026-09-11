@@ -1,0 +1,1 @@
+import{_ as t,o,c as e,ag as a}from"./chunks/framework.DaAXJYxM.js";const q=JSON.parse('{"title":"第33章 以后","description":"","frontmatter":{},"headers":[],"relativePath":"第33章_以后.md","filePath":"第33章_以后.md"}'),_={name:"第33章_以后.md"};function r(n,p,s,u,c,i){return o(),e("div",null,[...p[0]||(p[0]=[a("",21)])])}const l=t(_,[["render",r]]);export{q as __pageData,l as default};
