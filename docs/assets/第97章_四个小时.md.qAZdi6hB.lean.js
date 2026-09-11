@@ -1,1 +1,0 @@
-import{_ as t,o,c as e,ag as a}from"./chunks/framework.DaAXJYxM.js";const l=JSON.parse('{"title":"第97章 四个小时","description":"","frontmatter":{},"headers":[],"relativePath":"第97章_四个小时.md","filePath":"第97章_四个小时.md"}'),_={name:"第97章_四个小时.md"};function r(n,p,s,c,i,u){return o(),e("div",null,[...p[0]||(p[0]=[a("",51)])])}const m=t(_,[["render",r]]);export{l as __pageData,m as default};

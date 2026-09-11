@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,ag as _}from"./chunks/framework.DaAXJYxM.js";const u=JSON.parse('{"title":"第04章 老婆","description":"","frontmatter":{},"headers":[],"relativePath":"第04章_老婆.md","filePath":"第04章_老婆.md"}'),o={name:"第04章_老婆.md"};function r(n,p,s,c,i,d){return e(),a("div",null,[...p[0]||(p[0]=[_("",30)])])}const m=t(o,[["render",r]]);export{u as __pageData,m as default};
