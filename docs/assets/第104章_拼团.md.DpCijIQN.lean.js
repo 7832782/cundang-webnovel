@@ -1,0 +1,1 @@
+import{_ as t,o,c as e,ag as a}from"./chunks/framework.DaAXJYxM.js";const c=JSON.parse('{"title":"第104章 拼团","description":"","frontmatter":{},"headers":[],"relativePath":"第104章_拼团.md","filePath":"第104章_拼团.md"}'),_={name:"第104章_拼团.md"};function u(r,p,q,s,n,d){return o(),e("div",null,[...p[0]||(p[0]=[a("",172)])])}const i=t(_,[["render",u]]);export{c as __pageData,i as default};
