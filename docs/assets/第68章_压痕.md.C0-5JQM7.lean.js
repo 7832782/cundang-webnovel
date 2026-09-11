@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as a,ag as _}from"./chunks/framework.DaAXJYxM.js";const d=JSON.parse('{"title":"第68章 压痕","description":"","frontmatter":{},"headers":[],"relativePath":"第68章_压痕.md","filePath":"第68章_压痕.md"}'),p={name:"第68章_压痕.md"};function r(u,t,n,s,q,c){return e(),a("div",null,[...t[0]||(t[0]=[_("",9)])])}const l=o(p,[["render",r]]);export{d as __pageData,l as default};

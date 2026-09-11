@@ -1,0 +1,1 @@
+import{_ as p,o,c as e,ag as u}from"./chunks/framework.DaAXJYxM.js";const d=JSON.parse('{"title":"第87章 谁先发的","description":"","frontmatter":{},"headers":[],"relativePath":"第87章_谁先发的.md","filePath":"第87章_谁先发的.md"}'),a={name:"第87章_谁先发的.md"};function _(q,t,r,n,s,c){return o(),e("div",null,[...t[0]||(t[0]=[u("",20)])])}const l=p(a,[["render",_]]);export{d as __pageData,l as default};

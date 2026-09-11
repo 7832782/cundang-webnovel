@@ -1,0 +1,1 @@
+import{_ as t,o,c as e,ag as a}from"./chunks/framework.DaAXJYxM.js";const d=JSON.parse('{"title":"第83章 今天也是","description":"","frontmatter":{},"headers":[],"relativePath":"第83章_今天也是.md","filePath":"第83章_今天也是.md"}'),_={name:"第83章_今天也是.md"};function r(u,p,n,s,q,c){return o(),e("div",null,[...p[0]||(p[0]=[a("",28)])])}const l=t(_,[["render",r]]);export{d as __pageData,l as default};

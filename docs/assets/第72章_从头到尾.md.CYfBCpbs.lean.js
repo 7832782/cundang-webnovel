@@ -1,0 +1,1 @@
+import{_ as p,o,c as e,ag as a}from"./chunks/framework.DaAXJYxM.js";const d=JSON.parse('{"title":"第72章 从头到尾","description":"","frontmatter":{},"headers":[],"relativePath":"第72章_从头到尾.md","filePath":"第72章_从头到尾.md"}'),_={name:"第72章_从头到尾.md"};function r(u,t,n,s,q,c){return o(),e("div",null,[...t[0]||(t[0]=[a("",17)])])}const l=p(_,[["render",r]]);export{d as __pageData,l as default};

@@ -1,0 +1,1 @@
+import{_ as o,o as u,c as e,ag as a}from"./chunks/framework.DaAXJYxM.js";const d=JSON.parse('{"title":"第95章 没接","description":"","frontmatter":{},"headers":[],"relativePath":"第95章_没接.md","filePath":"第95章_没接.md"}'),q={name:"第95章_没接.md"};function _(p,t,r,n,s,c){return u(),e("div",null,[...t[0]||(t[0]=[a("",9)])])}const l=o(q,[["render",_]]);export{d as __pageData,l as default};

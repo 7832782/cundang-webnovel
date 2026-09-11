@@ -1,0 +1,1 @@
+import{_ as o,o as u,c as q,ag as p}from"./chunks/framework.DaAXJYxM.js";const d=JSON.parse('{"title":"第74章 数","description":"","frontmatter":{},"headers":[],"relativePath":"第74章_数.md","filePath":"第74章_数.md"}'),e={name:"第74章_数.md"};function a(_,t,r,n,s,c){return u(),q("div",null,[...t[0]||(t[0]=[p("",14)])])}const l=o(e,[["render",a]]);export{d as __pageData,l as default};

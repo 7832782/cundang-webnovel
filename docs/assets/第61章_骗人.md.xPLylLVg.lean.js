@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as p,ag as _}from"./chunks/framework.DaAXJYxM.js";const u=JSON.parse('{"title":"第61章 骗人","description":"","frontmatter":{},"headers":[],"relativePath":"第61章_骗人.md","filePath":"第61章_骗人.md"}'),o={name:"第61章_骗人.md"};function r(n,t,s,c,i,d){return a(),p("div",null,[...t[0]||(t[0]=[_("",11)])])}const m=e(o,[["render",r]]);export{u as __pageData,m as default};

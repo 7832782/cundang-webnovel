@@ -1,0 +1,1 @@
+import{_ as t,o,c as e,ag as a}from"./chunks/framework.DaAXJYxM.js";const d=JSON.parse('{"title":"第80章 回来","description":"","frontmatter":{},"headers":[],"relativePath":"第80章_回来.md","filePath":"第80章_回来.md"}'),_={name:"第80章_回来.md"};function r(u,p,n,s,q,c){return o(),e("div",null,[...p[0]||(p[0]=[a("",29)])])}const l=t(_,[["render",r]]);export{d as __pageData,l as default};

@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as u,ag as a}from"./chunks/framework.DaAXJYxM.js";const d=JSON.parse('{"title":"第94章 七秒","description":"","frontmatter":{},"headers":[],"relativePath":"第94章_七秒.md","filePath":"第94章_七秒.md"}'),_={name:"第94章_七秒.md"};function q(p,t,r,n,s,c){return e(),u("div",null,[...t[0]||(t[0]=[a("",9)])])}const l=o(_,[["render",q]]);export{d as __pageData,l as default};

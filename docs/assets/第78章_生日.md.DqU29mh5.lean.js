@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as a,ag as p}from"./chunks/framework.DaAXJYxM.js";const d=JSON.parse('{"title":"第78章 生日","description":"","frontmatter":{},"headers":[],"relativePath":"第78章_生日.md","filePath":"第78章_生日.md"}'),_={name:"第78章_生日.md"};function u(r,t,q,n,s,c){return e(),a("div",null,[...t[0]||(t[0]=[p("",11)])])}const l=o(_,[["render",u]]);export{d as __pageData,l as default};

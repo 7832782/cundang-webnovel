@@ -1,0 +1,1 @@
+import{_ as t,o,c as e,ag as a}from"./chunks/framework.DaAXJYxM.js";const d=JSON.parse('{"title":"第70章 掏不出来","description":"","frontmatter":{},"headers":[],"relativePath":"第70章_掏不出来.md","filePath":"第70章_掏不出来.md"}'),_={name:"第70章_掏不出来.md"};function r(u,p,n,s,q,c){return o(),e("div",null,[...p[0]||(p[0]=[a("",27)])])}const l=t(_,[["render",r]]);export{d as __pageData,l as default};

@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as a,ag as _}from"./chunks/framework.DaAXJYxM.js";const d=JSON.parse('{"title":"第96章 橙子","description":"","frontmatter":{},"headers":[],"relativePath":"第96章_橙子.md","filePath":"第96章_橙子.md"}'),p={name:"第96章_橙子.md"};function u(r,t,q,n,s,c){return e(),a("div",null,[...t[0]||(t[0]=[_("",9)])])}const l=o(p,[["render",u]]);export{d as __pageData,l as default};
