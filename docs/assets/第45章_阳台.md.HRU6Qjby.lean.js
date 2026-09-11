@@ -1,1 +1,0 @@
-import{_ as t,o as e,c as a,ag as _}from"./chunks/framework.DaAXJYxM.js";const m=JSON.parse('{"title":"第45章 阳台","description":"","frontmatter":{},"headers":[],"relativePath":"第45章_阳台.md","filePath":"第45章_阳台.md"}'),o={name:"第45章_阳台.md"};function r(n,p,s,c,i,d){return e(),a("div",null,[...p[0]||(p[0]=[_("",151)])])}const f=t(o,[["render",r]]);export{m as __pageData,f as default};
