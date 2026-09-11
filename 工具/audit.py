@@ -16,7 +16,23 @@ MODE = 'plan' if '--plan' in sys.argv else 'check'
 if MODE == 'plan':
     want = set()
 
+# “剧本行”：短（≤28字）且以她说/我说/他说开头 = 一句占一屏。
+# 并段后以“她说”开头的长段不算剧本行，它是正常叙述。
 D2 = re.compile(r'^(她说|我说|他说)')
+
+
+def script_run(t):
+    best = r = 0
+    for x in t.split('\n'):
+        x = x.strip()
+        if not x or x.startswith('# '):
+            continue
+        if D2.match(x) and len(x) <= 28:
+            r += 1
+            best = max(best, r)
+        else:
+            r = 0
+    return best
 if MODE == 'plan':
     rows = []
     for p in sorted(glob.glob('正文/**/*.md', recursive=True),
@@ -26,7 +42,7 @@ if MODE == 'plan':
         L = [x.strip() for x in t.split('\n') if x.strip() and not x.startswith('# ')]
         r = bb = 0
         for x in L:
-            if D2.match(x):
+            if D2.match(x) and len(x) <= 28:
                 r += 1
                 bb = max(bb, r)
             else:
@@ -68,11 +84,7 @@ for p in files:
         low.append((ch, n))
     r = best = 0
     for x in [y.strip() for y in t.split('\n') if y.strip() and not y.startswith('# ')]:
-        if D.match(x):
-            r += 1
-            best = max(best, r)
-        else:
-            r = 0
+        pass
     worst_run = max(worst_run, best)
     if best > 6:
         prob.append((ch, '连续台词', best))
