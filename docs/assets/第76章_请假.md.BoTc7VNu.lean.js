@@ -1,0 +1,1 @@
+import{_ as t,o,c as u,ag as e}from"./chunks/framework.DaAXJYxM.js";const d=JSON.parse('{"title":"第76章 请假","description":"","frontmatter":{},"headers":[],"relativePath":"第76章_请假.md","filePath":"第76章_请假.md"}'),a={name:"第76章_请假.md"};function q(_,p,r,n,s,c){return o(),u("div",null,[...p[0]||(p[0]=[e("",159)])])}const l=t(a,[["render",q]]);export{d as __pageData,l as default};
